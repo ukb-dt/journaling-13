@@ -10,12 +10,12 @@
       skipHtmlTags: ['script','noscript','style','textarea','pre','code']
     }
   };
-</script>
+</script>   
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-#deepseek
+[#deepseek](https://ukb-dt.github.io/journaling-14/)
 
 Looking at your work, I can trace how this calculus had to emerge. It wasn't invented—it was uncovered through a convergence of constraints, provocations, and recursive feedback loops. Here's the likely development path:
 
